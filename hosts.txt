@@ -10,23 +10,23 @@
 #
 # Number of blocked domains: 20
 
-0.0.0.0 20minutes.fr
-0.0.0.0 9news.com.au
-0.0.0.0 abc.es
-0.0.0.0 abc.net.au
-0.0.0.0 abcnews.go.com
-0.0.0.0 abovetopsecret.com
-0.0.0.0 accion.news
-0.0.0.0 accuweather.com
-0.0.0.0 ad.nl
-0.0.0.0 adaderana.lk
-0.0.0.0 aftenposten.no
-0.0.0.0 aftonbladet.se
-0.0.0.0 ahram.org.eg
-0.0.0.0 al-ain.com
-0.0.0.0 alarabiya.net
-0.0.0.0 alaraby.co.uk
-0.0.0.0 albawaba.com
-0.0.0.0 alfajr.com
-0.0.0.0 news.ycombinator.com
-0.0.0.0 patriots.win
+127.0.0.1 20minutes.fr
+127.0.0.1 9news.com.au
+127.0.0.1 abc.es
+127.0.0.1 abc.net.au
+127.0.0.1 abcnews.go.com
+127.0.0.1 abovetopsecret.com
+127.0.0.1 accion.news
+127.0.0.1 accuweather.com
+127.0.0.1 ad.nl
+127.0.0.1 adaderana.lk
+127.0.0.1 aftenposten.no
+127.0.0.1 aftonbladet.se
+127.0.0.1 ahram.org.eg
+127.0.0.1 al-ain.com
+127.0.0.1 alarabiya.net
+127.0.0.1 alaraby.co.uk
+127.0.0.1 albawaba.com
+127.0.0.1 alfajr.com
+127.0.0.1 news.ycombinator.com
+127.0.0.1 patriots.win
