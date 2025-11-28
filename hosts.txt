@@ -1,455 +1,468 @@
-20minutes.fr
-9news.com.au
-abc.es
-abc.net.au
-abcnews.go.com
-abovetopsecret.com
-accion.news
-accuweather.com
-ad.nl
-adaderana.lk
-aftenposten.no
-aftonbladet.se
-ahram.org.eg
-al-ain.com
-alarabiya.net
-alaraby.co.uk
-albawaba.com
-alfajr.com
-algemeiner.com
-algordon.com
-aljazeera.com
-allafrica.com
-allsides.com
-alternet.org
-americanthinker.com
-ami-journal.ru
-animalpolitico.com
-antiguaobserver.com
-apnews.co.uk
-apnews.com
-arabnews.com
-arstechnica.com
-asiatimes.com
-axios.com
-azcentral.com
-babylonbee.com
-balkaninsight.com
-baltictimes.com
-bangkokpost.com
-barbadostoday.bb
-barrons.com
-bbc.co.uk
-bbc.com
-bearingarms.com
-beforeitsnews.com
-berlingske.dk
-bernama.com
-bfmtv.com
-bild.de
-bing.com
-bitchute.com
-bizpacreview.com
-bloomberg.co.uk
-bloomberg.com
-boingboing.net
-bostonglobe.com
-breitbart.com
-brookings.edu
-bt.dk
-budapesttimes.hu
-businessinsider.co.uk
-businessinsider.com
-buzzfeednews.com
-c-span.org
-cairn.info
-caribbean360.com
-caribbeannationalweekly.com
-caribbeannewsnow.com
-cbc.ca
-cbsnews.com
-cctv.com
-chicagotribune.com
-chinadaily.com.cn
-clarin.com
-cnbc.com
-cnet.com
-cnn.co.uk
-cnn.com
-commondreams.org
-conservativebrief.com
-conservativereview.com
-corriere.it
-couriernewsroom.com
-crooksandliars.com
-ctvnews.ca
-currentaffairs.org
-cyprus-mail.com
-dagbladet.no
-dailycaller.com
-dailykos.com
-dailymail.co.uk
-dailynation.africa
-dailysignal.com
-dailytelegraph.com.au
-dailywire.com
-dawn.com
-deccanherald.com
-delfi.lt
-delfi.lv
-democracynow.org
-democraticunderground.com
-detik.com
-deutsche-welle.com
-digitaljournal.com
-dn.se
-dominicanewsonline.com
-dr.dk
-drudgereport.com
-dw.com
-economist.com
-egypttoday.com
-elcolombiano.com
-elcomercio.com
-elcomercio.pe
-elespectador.com
-elmercurio.com.ec
-elobservador.com.uy
-elpais.com
-elpais.com.uy
-eltiempo.com
-eluniversal.com.co
-eluniversal.com.mx
-eluniverso.com
-engadget.com
-enperspectiva.net
-epochtimes.com
-err.ee
-estonianworld.com
-euronews.com
-excelsior.com.mx
-expertsvar.se
-faz.net
-federalnewsnetwork.com
-financemagnates.com
-financialpost.com
-financialtimes.com
-fiveThirtyEight.com
-floridapolitics.com
-focus.de
-forbes.co.uk
-forbes.com
-foreignaffairs.com
-fortune.com
-foxnews.com
-france24.com
-francetvinfo.fr
-freebeacon.com
-freedomdaily.com
-frettabladid.is
-frontpagemag.com
-ft.com
-g1.globo.com
-gatesofvienna.net
-gawker.com
-gellerreport.com
-glasgowlive.co.uk
-globalnews.ca
-globaltimes.cn
-globo.com
-google.com
-granma.cu
-greekreporter.com
-ground.news
-guardian.co.uk
-guardian.ng
-gulfnews.com
-haaretz.com
-herald.co.zw
-heraldsun.com.au
-hindustantimes.com
-hotair.com
-hs.fi
-huffpost.co.uk
-huffpost.com
-hurriyet.com.tr
-ibtimes.com
-icelandreview.com
-ilsole24ore.com
-iltalehti.fi
-iltasanomat.fi
-independent.co.uk
-indiatimes.com
-indiatoday.in
-infobae.com
-infogram.com
-infowars.com
-infoworld.com
-initiativesnews.com
-inquirer.net
-interfax.ru
-inthesetimes.com
-investors.com
-iol.co.za
-irrawaddy.com
-israelnationalnews.com
-jacobin.com
-jakartapost.com
-jamaica-gleaner.com
-jamaicaobserver.com
-japantimes.co.jp
-jerusalempost.com
-khaleejtimes.com
-kompas.com
-koreaherald.com
-koreatimes.co.kr
-ktvu.com
-kumparan.com
-kurir.rs
-lafranceagricole.fr
-lahora.com.ec
-laht.com
-lanacion.com.ar
-larepublica.pe
-latimes.com
-lci.fr
-lefigaro.fr
-lemonde.fr
-lesechos.fr
-lewrockwell.com
-liberation.fr
-livescience.com
-loopcayman.com
-loopjamaica.com
-loopnewsanguilla.com
-loopnewsantigua.com
-loopnewsaruba.com
-loopnewsbarbados.com
-loopnewsbonaire.com
-loopnewsbvi.com
-loopnewscuracao.com
-loopnewsdominica.com
-loopnewsgrenada.com
-loopnewsguyana.com
-loopnewsstatia.com
-loopnewsstbarths.com
-loopnewsstcroix.com
-loopnewsstjohn.com
-loopnewsstlucia.com
-loopnewsstmaarten.com
-loopnewsstmartin.com
-loopnewsstthomas.com
-loopnewsstvincent.com
-loopnewssuriname.com
-looptt.com
-lopinion.fr
-macleans.ca
-mailtribune.com
-makingnewsnow.com
-malaymail.com
-manilatimes.net
-marketwatch.com
-mashable.com
-mbl.is
-mediamatters.org
-mediaspy.org.au
-meduza.io
-mercurynews.com
-milenio.com
-milliyet.com.tr
-mirror.co.uk
-monitor.co.ug
-motherjones.com
-msn.com
-msnbc.com
-mtv.com
-namibian.com.na
-nation.africa
-nationalpost.com
-nationalreview.com
-nationnews.com
-nationthailand.com
-naturalnews.com
-nature.com
-nbcnews.com
-ndtv.com
-newera.com.na
-news.com.au
-news.google.com
-news.yahoo.com
-news18.com
-news24.com
-newsbusters.org
-newscientist.com
-newsday.com
-newsmax.com
-newspunch.com
-newsweek.com
-newswire.com
-newyorker.com
-nhk.or.jp
-nikkei.com
-novinite.com
-npr.org
-nrk.no
-ntv.ru
-nydailynews.com
-nytimes.co.uk
-nytimes.com
-nzherald.co.nz
-oann.com
-observer.com
-onion.com
-opendemocracy.net
-oregonlive.com
-orlandosentinel.com
-pagina12.com.ar
-parismatch.com
-patriots.win
-people.cn
-philstar.com
-pjmedia.com
-pluralist.com
-politico.com
-politicususa.com
-politiken.dk
-praguemonitor.com
-prensa-latina.cu
-pressherald.com
-prisonplanet.com
-propublica.org
-punchng.com
-quora.com
-r7.com
-rappler.com
-rawstory.com
-realclearpolitics.com
-reason.com
-reddit.com
-redstate.com
-reforma.com
-repubblica.it
-republicworld.com
-reuters.co.uk
-reuters.com
-romania-insider.com
-rt.com
-rtl.fr
-ruv.is
-sabcnews.com
-saharareporters.com
-salon.com
-sanfranciscochronicle.com
-sbs.com.au
-sciencemag.org
-scmp.com
-seattletimes.com
-sky.com
-skynews.com
-slate.com
-smh.com.au
-sofrep.com
-spectator.co.uk
-spectator.org
-sputniknews.com
-standardmedia.co.ke
-startribune.com
-statesnewsroom.com
-stlucianewsonline.com
-straitstimes.com
-stuff.co.nz
-sun-sentinel.com
-sunshinepress.org
-suomenkuvalehti.fi
-svd.se
-swissinfo.ch
-talkingpointsmemo.com
-tass.com
-tbsnews.net
-tbt.com
-techcrunch.com
-techradar.com
-telegraaf.nl
-telegraph.co.uk
-telesurtv.net
-tennesseestar.com
-the-star.co.ke
-theage.com.au
-theamericanprospect.org
-theatlantic.com
-theblaze.com
-thecitizen.co.tz
-thedailybeast.com
-thedailysignal.com
-thediplomat.com
-theeastafrican.co.ke
-theepochtimes.com
-thefederalist.com
-thegatewaypundit.com
-theglobeandmail.com
-theguardian.co.uk
-theguardian.com
-thehill.com
-thehindu.com
-theintercept.com
-thejournal.ie
-thelily.com
-thenation.com
-thenationalnews.com
-thenewamerican.com
-thenewdaily.com.au
-thenews.com.pk
-thenewstribune.com
-theonion.com
-theprint.in
-thequint.com
-theringer.com
-thestandard.com.hk
-thestar.com
-thestar.com.my
-thestreet.com
-thetimes.co.uk
-thetimes.co.za
-thetimesofindia.com
-theverge.com
-theweek.com
-thisdaylive.com
-tiktok.com
-time.com
-timeslive.co.za
-timesofmalta.com
-tn.com.ar
-torontosun.com
-townhall.com
-tribune.com.pk
-trinidadexpress.com
-trtworld.com
-truthdig.com
-truthout.org
-twitchy.com
-udn.com
-uol.com.br
-usatoday.com
-usnews.com
-valuewalk.com
-vanguardngr.com
-vanityfair.com
-vg.no
-vice.com
-vietnamnews.vn
-vox.com
-washingtonexaminer.com
-washingtonpost.co.uk
-washingtonpost.com
-washingtontimes.com
-weather.com
-welt.de
-wired.com
-wn.com
-wsj.com
-xinhuanet.com
-yle.fi
-ynetnews.com
-zbcnews.co.zw
-zeenews.india.com
-zerohedge.com
+# Title: No News Is Good News
+# Description: A hosts list to block news sites that are giant wastes of time.
+# Homepage: https://github.com/rickgorman/no-news-is-good-news
+# License: MIT
+#
+# This file is designed to block news websites using the standard hosts file format.
+# To use: Copy the contents to your system's hosts file or use with DNS-level blocking tools.
+#
+# Last updated: 2025-11-28
+#
+# Number of blocked domains: 456
+
+127.0.0.1 20minutes.fr
+127.0.0.1 9news.com.au
+127.0.0.1 abc.es
+127.0.0.1 abc.net.au
+127.0.0.1 abcnews.go.com
+127.0.0.1 abovetopsecret.com
+127.0.0.1 accion.news
+127.0.0.1 accuweather.com
+127.0.0.1 ad.nl
+127.0.0.1 adaderana.lk
+127.0.0.1 aftenposten.no
+127.0.0.1 aftonbladet.se
+127.0.0.1 ahram.org.eg
+127.0.0.1 al-ain.com
+127.0.0.1 alarabiya.net
+127.0.0.1 alaraby.co.uk
+127.0.0.1 albawaba.com
+127.0.0.1 alfajr.com
+127.0.0.1 algemeiner.com
+127.0.0.1 algordon.com
+127.0.0.1 aljazeera.com
+127.0.0.1 allafrica.com
+127.0.0.1 allsides.com
+127.0.0.1 alternet.org
+127.0.0.1 americanthinker.com
+127.0.0.1 ami-journal.ru
+127.0.0.1 animalpolitico.com
+127.0.0.1 antiguaobserver.com
+127.0.0.1 apnews.co.uk
+127.0.0.1 apnews.com
+127.0.0.1 arabnews.com
+127.0.0.1 arstechnica.com
+127.0.0.1 asiatimes.com
+127.0.0.1 axios.com
+127.0.0.1 azcentral.com
+127.0.0.1 babylonbee.com
+127.0.0.1 balkaninsight.com
+127.0.0.1 baltictimes.com
+127.0.0.1 bangkokpost.com
+127.0.0.1 barbadostoday.bb
+127.0.0.1 barrons.com
+127.0.0.1 bbc.co.uk
+127.0.0.1 bbc.com
+127.0.0.1 bearingarms.com
+127.0.0.1 beforeitsnews.com
+127.0.0.1 berlingske.dk
+127.0.0.1 bernama.com
+127.0.0.1 bfmtv.com
+127.0.0.1 bild.de
+127.0.0.1 bing.com
+127.0.0.1 bitchute.com
+127.0.0.1 bizpacreview.com
+127.0.0.1 bloomberg.co.uk
+127.0.0.1 bloomberg.com
+127.0.0.1 boingboing.net
+127.0.0.1 bostonglobe.com
+127.0.0.1 breitbart.com
+127.0.0.1 brookings.edu
+127.0.0.1 bt.dk
+127.0.0.1 budapesttimes.hu
+127.0.0.1 businessinsider.co.uk
+127.0.0.1 businessinsider.com
+127.0.0.1 buzzfeednews.com
+127.0.0.1 c-span.org
+127.0.0.1 cairn.info
+127.0.0.1 caribbean360.com
+127.0.0.1 caribbeannationalweekly.com
+127.0.0.1 caribbeannewsnow.com
+127.0.0.1 cbc.ca
+127.0.0.1 cbsnews.com
+127.0.0.1 cctv.com
+127.0.0.1 chicagotribune.com
+127.0.0.1 chinadaily.com.cn
+127.0.0.1 clarin.com
+127.0.0.1 cnbc.com
+127.0.0.1 cnet.com
+127.0.0.1 cnn.co.uk
+127.0.0.1 cnn.com
+127.0.0.1 commondreams.org
+127.0.0.1 conservativebrief.com
+127.0.0.1 conservativereview.com
+127.0.0.1 corriere.it
+127.0.0.1 couriernewsroom.com
+127.0.0.1 crooksandliars.com
+127.0.0.1 ctvnews.ca
+127.0.0.1 currentaffairs.org
+127.0.0.1 cyprus-mail.com
+127.0.0.1 dagbladet.no
+127.0.0.1 dailycaller.com
+127.0.0.1 dailykos.com
+127.0.0.1 dailymail.co.uk
+127.0.0.1 dailynation.africa
+127.0.0.1 dailysignal.com
+127.0.0.1 dailytelegraph.com.au
+127.0.0.1 dailywire.com
+127.0.0.1 dawn.com
+127.0.0.1 deccanherald.com
+127.0.0.1 delfi.lt
+127.0.0.1 delfi.lv
+127.0.0.1 democracynow.org
+127.0.0.1 democraticunderground.com
+127.0.0.1 detik.com
+127.0.0.1 deutsche-welle.com
+127.0.0.1 digitaljournal.com
+127.0.0.1 dn.se
+127.0.0.1 dominicanewsonline.com
+127.0.0.1 dr.dk
+127.0.0.1 drudgereport.com
+127.0.0.1 dw.com
+127.0.0.1 economist.com
+127.0.0.1 egypttoday.com
+127.0.0.1 elcolombiano.com
+127.0.0.1 elcomercio.com
+127.0.0.1 elcomercio.pe
+127.0.0.1 elespectador.com
+127.0.0.1 elmercurio.com.ec
+127.0.0.1 elobservador.com.uy
+127.0.0.1 elpais.com
+127.0.0.1 elpais.com.uy
+127.0.0.1 eltiempo.com
+127.0.0.1 eluniversal.com.co
+127.0.0.1 eluniversal.com.mx
+127.0.0.1 eluniverso.com
+127.0.0.1 engadget.com
+127.0.0.1 enperspectiva.net
+127.0.0.1 epochtimes.com
+127.0.0.1 err.ee
+127.0.0.1 estonianworld.com
+127.0.0.1 euronews.com
+127.0.0.1 excelsior.com.mx
+127.0.0.1 expertsvar.se
+127.0.0.1 faz.net
+127.0.0.1 federalnewsnetwork.com
+127.0.0.1 financemagnates.com
+127.0.0.1 financialpost.com
+127.0.0.1 financialtimes.com
+127.0.0.1 fiveThirtyEight.com
+127.0.0.1 floridapolitics.com
+127.0.0.1 focus.de
+127.0.0.1 forbes.co.uk
+127.0.0.1 forbes.com
+127.0.0.1 foreignaffairs.com
+127.0.0.1 fortune.com
+127.0.0.1 foxnews.com
+127.0.0.1 france24.com
+127.0.0.1 francetvinfo.fr
+127.0.0.1 freebeacon.com
+127.0.0.1 freedomdaily.com
+127.0.0.1 frettabladid.is
+127.0.0.1 frontpagemag.com
+127.0.0.1 ft.com
+127.0.0.1 g1.globo.com
+127.0.0.1 gatesofvienna.net
+127.0.0.1 gawker.com
+127.0.0.1 gellerreport.com
+127.0.0.1 glasgowlive.co.uk
+127.0.0.1 globalnews.ca
+127.0.0.1 globaltimes.cn
+127.0.0.1 globo.com
+127.0.0.1 google.com
+127.0.0.1 granma.cu
+127.0.0.1 greekreporter.com
+127.0.0.1 ground.news
+127.0.0.1 guardian.co.uk
+127.0.0.1 guardian.ng
+127.0.0.1 gulfnews.com
+127.0.0.1 haaretz.com
+127.0.0.1 herald.co.zw
+127.0.0.1 heraldsun.com.au
+127.0.0.1 hindustantimes.com
+127.0.0.1 hotair.com
+127.0.0.1 hs.fi
+127.0.0.1 huffpost.co.uk
+127.0.0.1 huffpost.com
+127.0.0.1 hurriyet.com.tr
+127.0.0.1 ibtimes.com
+127.0.0.1 icelandreview.com
+127.0.0.1 ilsole24ore.com
+127.0.0.1 iltalehti.fi
+127.0.0.1 iltasanomat.fi
+127.0.0.1 independent.co.uk
+127.0.0.1 indiatimes.com
+127.0.0.1 indiatoday.in
+127.0.0.1 infobae.com
+127.0.0.1 infogram.com
+127.0.0.1 infowars.com
+127.0.0.1 infoworld.com
+127.0.0.1 initiativesnews.com
+127.0.0.1 inquirer.net
+127.0.0.1 interfax.ru
+127.0.0.1 inthesetimes.com
+127.0.0.1 investors.com
+127.0.0.1 iol.co.za
+127.0.0.1 irrawaddy.com
+127.0.0.1 israelnationalnews.com
+127.0.0.1 jacobin.com
+127.0.0.1 jakartapost.com
+127.0.0.1 jamaica-gleaner.com
+127.0.0.1 jamaicaobserver.com
+127.0.0.1 japantimes.co.jp
+127.0.0.1 jerusalempost.com
+127.0.0.1 khaleejtimes.com
+127.0.0.1 kompas.com
+127.0.0.1 koreaherald.com
+127.0.0.1 koreatimes.co.kr
+127.0.0.1 ktvu.com
+127.0.0.1 kumparan.com
+127.0.0.1 kurir.rs
+127.0.0.1 lafranceagricole.fr
+127.0.0.1 lahora.com.ec
+127.0.0.1 laht.com
+127.0.0.1 lanacion.com.ar
+127.0.0.1 larepublica.pe
+127.0.0.1 latimes.com
+127.0.0.1 lci.fr
+127.0.0.1 lefigaro.fr
+127.0.0.1 lemonde.fr
+127.0.0.1 lesechos.fr
+127.0.0.1 lewrockwell.com
+127.0.0.1 liberation.fr
+127.0.0.1 livescience.com
+127.0.0.1 loopcayman.com
+127.0.0.1 loopjamaica.com
+127.0.0.1 loopnewsanguilla.com
+127.0.0.1 loopnewsantigua.com
+127.0.0.1 loopnewsaruba.com
+127.0.0.1 loopnewsbarbados.com
+127.0.0.1 loopnewsbonaire.com
+127.0.0.1 loopnewsbvi.com
+127.0.0.1 loopnewscuracao.com
+127.0.0.1 loopnewsdominica.com
+127.0.0.1 loopnewsgrenada.com
+127.0.0.1 loopnewsguyana.com
+127.0.0.1 loopnewsstatia.com
+127.0.0.1 loopnewsstbarths.com
+127.0.0.1 loopnewsstcroix.com
+127.0.0.1 loopnewsstjohn.com
+127.0.0.1 loopnewsstlucia.com
+127.0.0.1 loopnewsstmaarten.com
+127.0.0.1 loopnewsstmartin.com
+127.0.0.1 loopnewsstthomas.com
+127.0.0.1 loopnewsstvincent.com
+127.0.0.1 loopnewssuriname.com
+127.0.0.1 looptt.com
+127.0.0.1 lopinion.fr
+127.0.0.1 macleans.ca
+127.0.0.1 mailtribune.com
+127.0.0.1 makingnewsnow.com
+127.0.0.1 malaymail.com
+127.0.0.1 manilatimes.net
+127.0.0.1 marketwatch.com
+127.0.0.1 mashable.com
+127.0.0.1 mbl.is
+127.0.0.1 mediamatters.org
+127.0.0.1 mediaspy.org.au
+127.0.0.1 meduza.io
+127.0.0.1 mercurynews.com
+127.0.0.1 milenio.com
+127.0.0.1 milliyet.com.tr
+127.0.0.1 mirror.co.uk
+127.0.0.1 monitor.co.ug
+127.0.0.1 motherjones.com
+127.0.0.1 msn.com
+127.0.0.1 msnbc.com
+127.0.0.1 mtv.com
+127.0.0.1 namibian.com.na
+127.0.0.1 nation.africa
+127.0.0.1 nationalpost.com
+127.0.0.1 nationalreview.com
+127.0.0.1 nationnews.com
+127.0.0.1 nationthailand.com
+127.0.0.1 naturalnews.com
+127.0.0.1 nature.com
+127.0.0.1 nbcnews.com
+127.0.0.1 ndtv.com
+127.0.0.1 newera.com.na
+127.0.0.1 news.com.au
+127.0.0.1 news.google.com
+127.0.0.1 news.yahoo.com
+127.0.0.1 news.ycombinator.com
+127.0.0.1 news18.com
+127.0.0.1 news24.com
+127.0.0.1 newsbusters.org
+127.0.0.1 newscientist.com
+127.0.0.1 newsday.com
+127.0.0.1 newsmax.com
+127.0.0.1 newspunch.com
+127.0.0.1 newsweek.com
+127.0.0.1 newswire.com
+127.0.0.1 newyorker.com
+127.0.0.1 nhk.or.jp
+127.0.0.1 nikkei.com
+127.0.0.1 novinite.com
+127.0.0.1 npr.org
+127.0.0.1 nrk.no
+127.0.0.1 ntv.ru
+127.0.0.1 nydailynews.com
+127.0.0.1 nytimes.co.uk
+127.0.0.1 nytimes.com
+127.0.0.1 nzherald.co.nz
+127.0.0.1 oann.com
+127.0.0.1 observer.com
+127.0.0.1 onion.com
+127.0.0.1 opendemocracy.net
+127.0.0.1 oregonlive.com
+127.0.0.1 orlandosentinel.com
+127.0.0.1 pagina12.com.ar
+127.0.0.1 parismatch.com
+127.0.0.1 patriots.win
+127.0.0.1 people.cn
+127.0.0.1 philstar.com
+127.0.0.1 pjmedia.com
+127.0.0.1 pluralist.com
+127.0.0.1 politico.com
+127.0.0.1 politicususa.com
+127.0.0.1 politiken.dk
+127.0.0.1 praguemonitor.com
+127.0.0.1 prensa-latina.cu
+127.0.0.1 pressherald.com
+127.0.0.1 prisonplanet.com
+127.0.0.1 propublica.org
+127.0.0.1 punchng.com
+127.0.0.1 quora.com
+127.0.0.1 r7.com
+127.0.0.1 rappler.com
+127.0.0.1 rawstory.com
+127.0.0.1 realclearpolitics.com
+127.0.0.1 reason.com
+127.0.0.1 reddit.com
+127.0.0.1 redstate.com
+127.0.0.1 reforma.com
+127.0.0.1 repubblica.it
+127.0.0.1 republicworld.com
+127.0.0.1 reuters.co.uk
+127.0.0.1 reuters.com
+127.0.0.1 romania-insider.com
+127.0.0.1 rt.com
+127.0.0.1 rtl.fr
+127.0.0.1 ruv.is
+127.0.0.1 sabcnews.com
+127.0.0.1 saharareporters.com
+127.0.0.1 salon.com
+127.0.0.1 sanfranciscochronicle.com
+127.0.0.1 sbs.com.au
+127.0.0.1 sciencemag.org
+127.0.0.1 scmp.com
+127.0.0.1 seattletimes.com
+127.0.0.1 sky.com
+127.0.0.1 skynews.com
+127.0.0.1 slate.com
+127.0.0.1 smh.com.au
+127.0.0.1 sofrep.com
+127.0.0.1 spectator.co.uk
+127.0.0.1 spectator.org
+127.0.0.1 sputniknews.com
+127.0.0.1 standardmedia.co.ke
+127.0.0.1 startribune.com
+127.0.0.1 statesnewsroom.com
+127.0.0.1 stlucianewsonline.com
+127.0.0.1 straitstimes.com
+127.0.0.1 stuff.co.nz
+127.0.0.1 sun-sentinel.com
+127.0.0.1 sunshinepress.org
+127.0.0.1 suomenkuvalehti.fi
+127.0.0.1 svd.se
+127.0.0.1 swissinfo.ch
+127.0.0.1 talkingpointsmemo.com
+127.0.0.1 tass.com
+127.0.0.1 tbsnews.net
+127.0.0.1 tbt.com
+127.0.0.1 techcrunch.com
+127.0.0.1 techradar.com
+127.0.0.1 telegraaf.nl
+127.0.0.1 telegraph.co.uk
+127.0.0.1 telesurtv.net
+127.0.0.1 tennesseestar.com
+127.0.0.1 the-star.co.ke
+127.0.0.1 theage.com.au
+127.0.0.1 theamericanprospect.org
+127.0.0.1 theatlantic.com
+127.0.0.1 theblaze.com
+127.0.0.1 thecitizen.co.tz
+127.0.0.1 thedailybeast.com
+127.0.0.1 thedailysignal.com
+127.0.0.1 thediplomat.com
+127.0.0.1 theeastafrican.co.ke
+127.0.0.1 theepochtimes.com
+127.0.0.1 thefederalist.com
+127.0.0.1 thegatewaypundit.com
+127.0.0.1 theglobeandmail.com
+127.0.0.1 theguardian.co.uk
+127.0.0.1 theguardian.com
+127.0.0.1 thehill.com
+127.0.0.1 thehindu.com
+127.0.0.1 theintercept.com
+127.0.0.1 thejournal.ie
+127.0.0.1 thelily.com
+127.0.0.1 thenation.com
+127.0.0.1 thenationalnews.com
+127.0.0.1 thenewamerican.com
+127.0.0.1 thenewdaily.com.au
+127.0.0.1 thenews.com.pk
+127.0.0.1 thenewstribune.com
+127.0.0.1 theonion.com
+127.0.0.1 theprint.in
+127.0.0.1 thequint.com
+127.0.0.1 theringer.com
+127.0.0.1 thestandard.com.hk
+127.0.0.1 thestar.com
+127.0.0.1 thestar.com.my
+127.0.0.1 thestreet.com
+127.0.0.1 thetimes.co.uk
+127.0.0.1 thetimes.co.za
+127.0.0.1 thetimesofindia.com
+127.0.0.1 theverge.com
+127.0.0.1 theweek.com
+127.0.0.1 thisdaylive.com
+127.0.0.1 tiktok.com
+127.0.0.1 time.com
+127.0.0.1 timeslive.co.za
+127.0.0.1 timesofmalta.com
+127.0.0.1 tn.com.ar
+127.0.0.1 torontosun.com
+127.0.0.1 townhall.com
+127.0.0.1 tribune.com.pk
+127.0.0.1 trinidadexpress.com
+127.0.0.1 trtworld.com
+127.0.0.1 truthdig.com
+127.0.0.1 truthout.org
+127.0.0.1 twitchy.com
+127.0.0.1 udn.com
+127.0.0.1 uol.com.br
+127.0.0.1 usatoday.com
+127.0.0.1 usnews.com
+127.0.0.1 valuewalk.com
+127.0.0.1 vanguardngr.com
+127.0.0.1 vanityfair.com
+127.0.0.1 vg.no
+127.0.0.1 vice.com
+127.0.0.1 vietnamnews.vn
+127.0.0.1 vox.com
+127.0.0.1 washingtonexaminer.com
+127.0.0.1 washingtonpost.co.uk
+127.0.0.1 washingtonpost.com
+127.0.0.1 washingtontimes.com
+127.0.0.1 weather.com
+127.0.0.1 welt.de
+127.0.0.1 wired.com
+127.0.0.1 wn.com
+127.0.0.1 wsj.com
+127.0.0.1 xinhuanet.com
+127.0.0.1 yle.fi
+127.0.0.1 ynetnews.com
+127.0.0.1 zbcnews.co.zw
+127.0.0.1 zeenews.india.com
+127.0.0.1 zerohedge.com
