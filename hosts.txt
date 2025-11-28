@@ -1,0 +1,32 @@
+# Title: No News Is Good News
+# Description: A hosts list to block news sites that are giant wastes of time.
+# Homepage: https://github.com/rickgorman/no-news-is-good-news
+# License: MIT
+#
+# This file is designed to block news websites using the standard hosts file format.
+# To use: Copy the contents to your system's hosts file or use with DNS-level blocking tools.
+#
+# Last updated: 2025-11-28
+#
+# Number of blocked domains: 20
+
+127.0.0.1 20minutes.fr
+127.0.0.1 9news.com.au
+127.0.0.1 abc.es
+127.0.0.1 abc.net.au
+127.0.0.1 abcnews.go.com
+127.0.0.1 abovetopsecret.com
+127.0.0.1 accion.news
+127.0.0.1 accuweather.com
+127.0.0.1 ad.nl
+127.0.0.1 adaderana.lk
+127.0.0.1 aftenposten.no
+127.0.0.1 aftonbladet.se
+127.0.0.1 ahram.org.eg
+127.0.0.1 al-ain.com
+127.0.0.1 alarabiya.net
+127.0.0.1 alaraby.co.uk
+127.0.0.1 albawaba.com
+127.0.0.1 alfajr.com
+127.0.0.1 news.ycombinator.com
+127.0.0.1 patriots.win
